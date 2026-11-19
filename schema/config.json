@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "jdcloud-dns",
+  "category": "apply",
+  "schema": {
+    "columns": [
+      {
+        "name": "regionId",
+        "valueType": "text",
+        "labelKey": "plugin.jdcloud-dns.config.regionId.label",
+        "tooltipKey": "plugin.jdcloud-dns.config.regionId.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.jdcloud-dns.config.regionId.placeholder",
+        "required": true,
+        "default": "cn-north-1"
+      }
+    ]
+  }
+}

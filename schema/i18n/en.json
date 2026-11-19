@@ -1,0 +1,7 @@
+{
+  "plugin.jdcloud-dns.name": "JD Cloud - DNS",
+  "plugin.jdcloud-dns.description": "ACME DNS-01 via JD Cloud - DNS.",
+  "plugin.jdcloud-dns.config.regionId.label": "JD Cloud region ID",
+  "plugin.jdcloud-dns.config.regionId.tooltip": "For more information, see <a href=\"https://docs.jdcloud.com/en/common-declaration/api/introduction\" target=\"_blank\">https://docs.jdcloud.com/en/common-declaration/api/introduction</a>",
+  "plugin.jdcloud-dns.config.regionId.placeholder": "Please enter JD Cloud DNS region ID (e.g. cn-north-1)"
+}
